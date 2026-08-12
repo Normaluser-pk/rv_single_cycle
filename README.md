@@ -20,7 +20,7 @@ A single-cycle RISC-V (RV32I) processor datapath and control unit implemented in
 
 ### Signal flow
 
-
+![Signal flow](images/rv_single_cycle.png)
 
 ## Supported Instructions
 
