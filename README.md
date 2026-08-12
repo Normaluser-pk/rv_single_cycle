@@ -1,5 +1,3 @@
-# rv_single_cycle
-
 # RV Single Cycle
 
 A single-cycle RISC-V (RV32I) processor datapath and control unit implemented in Verilog. Every instruction fetches, decodes, executes, accesses memory, and writes back within one clock cycle, following the classic single-cycle design from *Digital Design and Computer Architecture (RISC-V Edition)*.
